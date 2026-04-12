@@ -100,6 +100,8 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [OpenCode](https://github.com/opencode-ai/opencode) - Provider-agnostic AI coding CLI with multi-agent orchestration, Git-backed sessions, and TUI. _By [@opencode-ai](https://github.com/opencode-ai)_
 - [Junie CLI](https://www.jetbrains.com/junie/) 🤖 - JetBrains' standalone coding agent. LLM-agnostic, runs in terminal/CI/CD, supports multiple models.
 - [.NET Aspire CLI](https://learn.microsoft.com/en-us/dotnet/aspire/) 🤖 - Microsoft's AI-agent-native CLI for .NET with detached startup, resource control, and isolated environments.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source SEO and Google Ads skills plugin for Claude Code. Connects Google Search Console, PageSpeed Insights, and Google Ads API.
+
 
 ### Tool Orchestration
 
