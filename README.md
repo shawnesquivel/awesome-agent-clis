@@ -145,6 +145,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 - [PostHog CLI](https://posthog.com) - Query events, manage feature flags, and pull analytics data.
 - [Sentry CLI](https://github.com/getsentry/sentry-cli) - Manage releases, upload source maps, and query issues. JSON output with `--format json`.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Inspect local AI coding agent session logs across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more. JSON, Markdown, and HTML overview reports for cost, token, latency, failure, and health triage.
 
 ### Workspace & Productivity
 
