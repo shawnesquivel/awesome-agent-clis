@@ -96,6 +96,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [Cursor CLI](https://cursor.com/docs/cli/overview) 🤖 - Cursor's terminal agent for writing, reviewing, and modifying code. Supports interactive, plan, and ask modes, plus non-interactive automation, session resume, cloud handoff, and sandbox controls.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) 🤖 - Google's open-source coding agent with Plan Mode, Conductor for automated reviews, and multimodal input.
 - [OpenAI Codex CLI](https://github.com/openai/codex) 🤖 - OpenAI's terminal coding agent with sandboxed execution and multi-file editing.
+- [codex-profile](https://github.com/Ducksss/codex-profiles) - Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profiles. Includes read-only `status --json`, `doctor --json`, and `path` commands for agent-safe profile inspection.
 - [Aider](https://github.com/Aider-AI/aider) - Git-native AI pair programming in the terminal. Works with any LLM, strong at refactors. _By [@paul-gauthier](https://github.com/paul-gauthier)_
 - [OpenCode](https://github.com/opencode-ai/opencode) - Provider-agnostic AI coding CLI with multi-agent orchestration, Git-backed sessions, and TUI. _By [@opencode-ai](https://github.com/opencode-ai)_
 - [Junie CLI](https://www.jetbrains.com/junie/) 🤖 - JetBrains' standalone coding agent. LLM-agnostic, runs in terminal/CI/CD, supports multiple models.
