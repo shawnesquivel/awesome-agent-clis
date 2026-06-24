@@ -149,6 +149,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 ### Workspace & Productivity
 
 - [Google Workspace CLI (`gws`)](https://github.com/googleworkspace/cli) 🤖 - One CLI for all of Google Workspace. Dynamically built from Google's Discovery Service — when Google adds an API endpoint, `gws` picks it up automatically. Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. 100+ agent skills included, structured JSON output, structured exit codes (0–5), helper commands (`+send`, `+agenda`, `+triage`), and Model Armor response sanitization. 22k+ stars.
+- [Remio CLI](https://remio.ai/) 🤖 - Agent-facing interface to the Remio desktop client's local-first AI memory and knowledge base. Query indexed files, webpages, recordings, emails, messages, images, and notes for focused personal context instead of broad folder scans or whole-document prompt loading. Requires Remio desktop.
 
 ### Voice & Media
 
