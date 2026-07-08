@@ -134,6 +134,10 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 - [GitHub CLI](https://github.com/cli/cli) - Issues, PRs, repos, actions, and code search. `--json` with `--jq` for precise field extraction.
 - [GitLab CLI](https://gitlab.com/gitlab-org/cli) - MRs, issues, pipelines, and CI/CD management. `--output json` flag.
 
+### Memory & Context
+
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) 🤖 - Local-first memory lifecycle CLI/TUI for AI agents with SQLite/FTS recall, audit, redaction, forgetting, and evidence-linked lessons.
+
 ### Database
 
 - [Supabase CLI](https://github.com/supabase/cli) - Manage Postgres databases, auth, edge functions, and storage. Local dev with `supabase start`.
