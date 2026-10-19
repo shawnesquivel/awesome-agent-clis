@@ -119,6 +119,7 @@ CLIs without the 🤖 badge are **established tools that work well with agents**
 
 ### Payments & Commerce
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) 🤖 - CLI and local stdio MCP payment runtime for AI agents on macOS Apple Silicon, with JSON output, x402 support, and foreground owner approval.
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Test webhooks, trigger events, tail API logs, and manage Stripe resources. `--json` flag for structured output.
 - [Visa CLI](https://visa.com) 🤖 - AI agents make card-native payments programmatically. Closed beta.
 
